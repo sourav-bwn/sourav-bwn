@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="845" height="120" viewBox="0 0 845 120" role="img" aria-label="Animated gradient waves">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.35">
+    <path fill="url(#w2)" d="M0 70 Q 105 30 211 70 T 422 70 T 633 70 T 845 70 T 1056 70 T 1267 70 T 1478 70 T 1690 70 L 1690 120 L 0 120 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-845 0" dur="13s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.75">
+    <path fill="url(#w1)" d="M0 82 Q 105 44 211 82 T 422 82 T 633 82 T 845 82 T 1056 82 T 1267 82 T 1478 82 T 1690 82 L 1690 120 L 0 120 Z">
+      <animateTransform attributeName="transform" type="translate" from="-845 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
