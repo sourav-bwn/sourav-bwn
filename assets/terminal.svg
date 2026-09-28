@@ -9,18 +9,17 @@
       <stop offset="50%" stop-color="#a78bfa"/>
       <stop offset="100%" stop-color="#f472b6"/>
     </linearGradient>
-    <clipPath id="cmd1"><rect x="0" y="0" width="0" height="30">
-      <animate attributeName="width" from="0" to="120" dur="0.9s" begin="0.4s" fill="freeze"/>
-    </rect></clipPath>
-    <clipPath id="cmd2"><rect x="0" y="0" width="0" height="30">
-      <animate attributeName="width" from="0" to="235" dur="1.4s" begin="3.2s" fill="freeze"/>
-    </rect></clipPath>
+    <clipPath id="cmd1"><rect class="cmd1rect" x="0" y="0" width="120" height="30"/></clipPath>
+    <clipPath id="cmd2"><rect class="cmd2rect" x="0" y="0" width="235" height="30"/></clipPath>
   </defs>
   <style>
     .ln { animation: lnIn .45s ease backwards; }
     @keyframes lnIn { from { opacity: 0; transform: translateY(6px); } }
     .focus { animation: lnIn .5s ease 4.8s backwards; }
     .cur { animation: blink 1.1s steps(1) infinite; }
+    .cmd1rect { animation: typeW .9s linear .4s backwards; }
+    .cmd2rect { animation: typeW 1.4s linear 3.2s backwards; }
+    @keyframes typeW { from { width: 0; } }
     @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     text { font: 14px 'Courier New', ui-monospace, monospace; }
   </style>
