@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="118" viewBox="0 0 420 118" role="img" aria-label="api-key-checker repository card">
+  <defs>
+    <linearGradient id="brd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card { fill: rgba(15,23,42,0.04); }
+    .name { fill: #e2e8f0; font: 700 17px 'Segoe UI', system-ui, sans-serif; }
+    .desc { fill: #94a3b8; font: 12.5px 'Segoe UI', system-ui, sans-serif; }
+    .lang { fill: #94a3b8; font: 12px 'Segoe UI', system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: rgba(255,255,255,0.06); }
+      .name { fill: #e2e8f0; }
+      .desc { fill: #94a3b8; }
+    }
+    @media (prefers-color-scheme: light) {
+      .card { fill: rgba(30,27,75,0.05); }
+      .name { fill: #1e1b4b; }
+      .desc { fill: #475569; }
+      .lang { fill: #475569; }
+    }
+    .card { stroke: url(#brd); stroke-opacity: 0.55; stroke-width: 1.4; }
+  </style>
+  <rect class="card" x="2" y="2" width="416" height="114" rx="12"/>
+  <text class="name" x="18" y="32">api-key-checker</text>
+  <text class="desc" x="18" y="58">Validate API keys from 20+ providers instantly, fully</text>
+  <text class="desc" x="18" y="76">client-side.</text>
+  <circle cx="24" cy="101" r="5" fill="#563d7c"/>
+  <text class="lang" x="36" y="105">CSS</text>
+</svg>
