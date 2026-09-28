@@ -69,17 +69,13 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Mindscape</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/mindscape"><img src="assets/pins/mindscape.svg" alt="mindscape repository card" /></a>
-        <br />
-        <em>AI-powered learning platform with intelligent tutoring and progress tracking.</em>
+        <a href="https://github.com/sourav-bwn/mindscape"><img src="assets/pins/mindscape.svg" alt="mindscape repository card" width="420" /></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">3D Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/sourav-3d-portfolio"><img src="assets/pins/sourav-3d-portfolio.svg" alt="sourav-3d-portfolio repository card" /></a>
-        <br />
-        <em>Interactive 3D portfolio built with Three.js, React, and Vite.</em>
+        <a href="https://github.com/sourav-bwn/sourav-3d-portfolio"><img src="assets/pins/sourav-3d-portfolio.svg" alt="sourav-3d-portfolio repository card" width="420" /></a>
       </p>
     </td>
   </tr>
@@ -87,17 +83,13 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Hand Tracking AR</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/hand-tracking-ar"><img src="assets/pins/hand-tracking-ar.svg" alt="hand-tracking-ar repository card" /></a>
-        <br />
-        <em>Real-time hand tracking with a futuristic AR HUD using MediaPipe and Canvas.</em>
+        <a href="https://github.com/sourav-bwn/hand-tracking-ar"><img src="assets/pins/hand-tracking-ar.svg" alt="hand-tracking-ar repository card" width="420" /></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">Home CCTV</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/home-cctv"><img src="assets/pins/home-cctv.svg" alt="home-cctv repository card" /></a>
-        <br />
-        <em>Turn an old Android phone into a smart CCTV with Telegram alerts.</em>
+        <a href="https://github.com/sourav-bwn/home-cctv"><img src="assets/pins/home-cctv.svg" alt="home-cctv repository card" width="420" /></a>
       </p>
     </td>
   </tr>
@@ -105,17 +97,13 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Reddit Video Bot</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/reddit-video-bot"><img src="assets/pins/reddit-video-bot.svg" alt="reddit-video-bot repository card" /></a>
-        <br />
-        <em>Automated Reddit-to-video generator with TTS narration and caption sync.</em>
+        <a href="https://github.com/sourav-bwn/reddit-video-bot"><img src="assets/pins/reddit-video-bot.svg" alt="reddit-video-bot repository card" width="420" /></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">API Key Checker</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/api-key-checker"><img src="assets/pins/api-key-checker.svg" alt="api-key-checker repository card" /></a>
-        <br />
-        <em>Validate API keys from 20+ providers, fully client-side.</em>
+        <a href="https://github.com/sourav-bwn/api-key-checker"><img src="assets/pins/api-key-checker.svg" alt="api-key-checker repository card" width="420" /></a>
       </p>
     </td>
   </tr>
