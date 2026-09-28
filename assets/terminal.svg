@@ -18,6 +18,9 @@
     .cmd1 { animation: lnIn .5s ease .5s backwards; }
     .cmd2 { animation: lnIn .5s ease 3.1s backwards; }
     @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ln, .cmd1, .cmd2, .focus, .cur { animation: none; }
+    }
     text { font: 14px 'Courier New', ui-monospace, monospace; }
   </style>
 
