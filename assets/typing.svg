@@ -23,7 +23,7 @@
     </rect></clipPath>
   </defs>
 
-  <g opacity="0">
+  <g opacity="1">
     <animate attributeName="opacity" dur="20s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.02;0.03;0.24;0.25;1"/>
     <text class="t" x="8" y="36" clip-path="url(#c1)">AI Engineer &amp; Full-Stack Developer</text>
     <rect class="cur" x="372" y="16" width="11" height="24">
