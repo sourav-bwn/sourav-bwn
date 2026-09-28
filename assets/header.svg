@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="845" height="230" viewBox="0 0 845 230" role="img" aria-label="Sourav Garai - AI Engineer and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bgDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#1e1b4b;#082f49;#0f172a" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#312e81">
+        <animate attributeName="stop-color" values="#312e81;#0c4a6e;#3b0764;#312e81" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#701a75">
+        <animate attributeName="stop-color" values="#701a75;#155e75;#4c1d95;#701a75" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="bgLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dbeafe">
+        <animate attributeName="stop-color" values="#dbeafe;#e0e7ff;#cffafe;#dbeafe" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#ede9fe">
+        <animate attributeName="stop-color" values="#ede9fe;#fce7f3;#e0f2fe;#ede9fe" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#fae8ff">
+        <animate attributeName="stop-color" values="#fae8ff;#e0e7ff;#f3e8ff;#fae8ff" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="strokeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .bg-dark { display: inline; }
+    .bg-light { display: none; }
+    .glass { fill: rgba(255,255,255,0.07); }
+    .name { fill: #f8fafc; font: 800 44px 'Segoe UI', system-ui, sans-serif; letter-spacing: 6px; }
+    .tag { fill: #c4b5fd; font: 500 17px 'Segoe UI', system-ui, sans-serif; letter-spacing: 3px; }
+    .dot { fill: #e2e8f0; }
+    @media (prefers-color-scheme: light) {
+      .bg-dark { display: none; }
+      .bg-light { display: inline; }
+      .glass { fill: rgba(255,255,255,0.55); }
+      .name { fill: #1e1b4b; }
+      .tag { fill: #6d28d9; }
+      .dot { fill: #4c1d95; }
+    }
+    .ch { opacity: 0; animation: rise 0.7s cubic-bezier(0.2,0.7,0.3,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .tagline { opacity: 0; animation: rise 0.8s ease 1.6s forwards; }
+    .rule { transform: scaleX(0); transform-origin: center; animation: grow 1.1s cubic-bezier(0.2,0.7,0.3,1) 1.9s forwards; }
+    @keyframes grow { to { transform: scaleX(1); } }
+    .floatA { animation: floatA 11s ease-in-out infinite alternate; }
+    .floatB { animation: floatB 13s ease-in-out infinite alternate; }
+    @keyframes floatA { from { transform: translate(0,0); } to { transform: translate(60px,26px); } }
+    @keyframes floatB { from { transform: translate(0,0); } to { transform: translate(-70px,-20px); } }
+    .orbit { transform-origin: 422px 115px; animation: spin 16s linear infinite; }
+    .orbit2 { transform-origin: 422px 115px; animation: spin 26s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+
+  <rect class="bg-dark" width="845" height="230" rx="18" fill="url(#bgDark)"/>
+  <rect class="bg-light" width="845" height="230" rx="18" fill="url(#bgLight)"/>
+
+  <circle class="floatA" cx="150" cy="60" r="150" fill="url(#glowA)"/>
+  <circle class="floatB" cx="700" cy="180" r="170" fill="url(#glowB)"/>
+
+  <rect x="8" y="8" width="829" height="214" rx="14" class="glass" stroke="url(#strokeGrad)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <g class="orbit" opacity="0.8">
+    <circle cx="422" cy="40" r="4" fill="#22d3ee"/>
+  </g>
+  <g class="orbit2" opacity="0.8">
+    <circle cx="422" cy="30" r="3" fill="#f472b6"/>
+  </g>
+  <ellipse cx="422" cy="115" rx="185" ry="82" fill="none" stroke="url(#strokeGrad)" stroke-opacity="0.28" stroke-width="1"/>
+  <ellipse cx="422" cy="115" rx="225" ry="98" fill="none" stroke="url(#strokeGrad)" stroke-opacity="0.16" stroke-width="1"/>
+
+  <text x="422" y="112" text-anchor="middle" class="name">
+    <tspan class="ch" style="animation-delay:.10s">S</tspan><tspan class="ch" style="animation-delay:.18s">O</tspan><tspan class="ch" style="animation-delay:.26s">U</tspan><tspan class="ch" style="animation-delay:.34s">R</tspan><tspan class="ch" style="animation-delay:.42s">A</tspan><tspan class="ch" style="animation-delay:.50s">V</tspan><tspan class="ch" style="animation-delay:.62s">&#160;</tspan><tspan class="ch" style="animation-delay:.72s">G</tspan><tspan class="ch" style="animation-delay:.80s">A</tspan><tspan class="ch" style="animation-delay:.88s">R</tspan><tspan class="ch" style="animation-delay:.96s">A</tspan><tspan class="ch" style="animation-delay:1.04s">I</tspan>
+  </text>
+  <rect class="rule" x="272" y="132" width="300" height="2.5" rx="1.25" fill="url(#strokeGrad)"/>
+  <text class="tag tagline" x="422" y="168" text-anchor="middle">AI ENGINEER &#183; FULL-STACK DEVELOPER</text>
+  <g class="tagline">
+    <circle class="dot" cx="356" cy="190" r="2.2"/>
+    <circle class="dot" cx="422" cy="190" r="2.2"/>
+    <circle class="dot" cx="488" cy="190" r="2.2"/>
+  </g>
+</svg>
