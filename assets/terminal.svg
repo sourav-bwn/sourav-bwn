@@ -9,17 +9,14 @@
       <stop offset="50%" stop-color="#a78bfa"/>
       <stop offset="100%" stop-color="#f472b6"/>
     </linearGradient>
-    <clipPath id="cmd1"><rect class="cmd1rect" x="0" y="0" width="120" height="30"/></clipPath>
-    <clipPath id="cmd2"><rect class="cmd2rect" x="0" y="0" width="235" height="30"/></clipPath>
   </defs>
   <style>
     .ln { animation: lnIn .45s ease backwards; }
     @keyframes lnIn { from { opacity: 0; transform: translateY(6px); } }
     .focus { animation: lnIn .5s ease 4.8s backwards; }
     .cur { animation: blink 1.1s steps(1) infinite; }
-    .cmd1rect { animation: typeW .9s linear .4s backwards; }
-    .cmd2rect { animation: typeW 1.4s linear 3.2s backwards; }
-    @keyframes typeW { from { width: 0; } }
+    .cmd1 { animation: lnIn .5s ease .5s backwards; }
+    .cmd2 { animation: lnIn .5s ease 3.1s backwards; }
     @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     text { font: 14px 'Courier New', ui-monospace, monospace; }
   </style>
@@ -30,7 +27,7 @@
   <circle cx="74" cy="30" r="6" fill="#28c840"/>
   <text x="340" y="35" text-anchor="middle" fill="#8b949e" font-size="12">sourav@github: ~</text>
 
-  <text x="24" y="76" fill="#7ee787" xml:space="preserve">$ <tspan fill="#e6edf3" clip-path="url(#cmd1)">whoami</tspan></text>
+  <text x="24" y="76" fill="#7ee787" xml:space="preserve">$ <tspan class="cmd1" fill="#e6edf3">whoami</tspan></text>
 
   <g fill="url(#asciiGrad)" font-weight="bold">
     <text class="ln" style="animation-delay:1.5s" x="115" y="112" xml:space="preserve">  ____     ___    _   _   ____       _     __     __</text>
@@ -42,7 +39,7 @@
 
   <text class="ln" style="animation-delay:2.6s" x="115" y="224" fill="#79c0ff" xml:space="preserve">AI Engineer &#183; Full-Stack Developer &#183; India</text>
 
-  <text x="24" y="264" fill="#7ee787" xml:space="preserve">$ <tspan fill="#e6edf3" clip-path="url(#cmd2)">cat current_focus.txt</tspan></text>
+  <text x="24" y="264" fill="#7ee787" xml:space="preserve">$ <tspan class="cmd2" fill="#e6edf3">cat current_focus.txt</tspan></text>
   <text class="focus" x="24" y="296" fill="#e6edf3" xml:space="preserve">Academia LMS &#183; AI tools &#183; open source</text>
 
   <text x="24" y="336" fill="#7ee787" xml:space="preserve">$ <tspan class="cur" fill="#22d3ee">&#9608;</tspan></text>
