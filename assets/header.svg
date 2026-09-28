@@ -63,6 +63,9 @@
     .orbit { transform-origin: 422px 115px; animation: spin 16s linear infinite; }
     .orbit2 { transform-origin: 422px 115px; animation: spin 26s linear infinite reverse; }
     @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .ch, .tagline, .rule, .floatA, .floatB, .orbit, .orbit2 { animation: none; }
+    }
   </style>
 
   <rect class="bg-dark" width="845" height="230" rx="18" fill="url(#bgDark)"/>
