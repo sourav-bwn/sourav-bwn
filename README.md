@@ -69,12 +69,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Mindscape</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/mindscape">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/mindscape"><img src="assets/pins/mindscape.svg" alt="mindscape repository card" /></a>
         <br />
         <em>AI-powered learning platform with intelligent tutoring and progress tracking.</em>
       </p>
@@ -82,12 +77,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">3D Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/sourav-3d-portfolio">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/sourav-3d-portfolio"><img src="assets/pins/sourav-3d-portfolio.svg" alt="sourav-3d-portfolio repository card" /></a>
         <br />
         <em>Interactive 3D portfolio built with Three.js, React, and Vite.</em>
       </p>
@@ -97,12 +87,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Hand Tracking AR</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/hand-tracking-ar">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/hand-tracking-ar"><img src="assets/pins/hand-tracking-ar.svg" alt="hand-tracking-ar repository card" /></a>
         <br />
         <em>Real-time hand tracking with a futuristic AR HUD using MediaPipe and Canvas.</em>
       </p>
@@ -110,12 +95,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Home CCTV</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/home-cctv">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/home-cctv"><img src="assets/pins/home-cctv.svg" alt="home-cctv repository card" /></a>
         <br />
         <em>Turn an old Android phone into a smart CCTV with Telegram alerts.</em>
       </p>
@@ -125,12 +105,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">Reddit Video Bot</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/reddit-video-bot">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/reddit-video-bot"><img src="assets/pins/reddit-video-bot.svg" alt="reddit-video-bot repository card" /></a>
         <br />
         <em>Automated Reddit-to-video generator with TTS narration and caption sync.</em>
       </p>
@@ -138,12 +113,7 @@ I like building real things - AI-powered apps, automation tools, and interactive
     <td width="50%">
       <h3 align="center">API Key Checker</h3>
       <p align="center">
-        <a href="https://github.com/sourav-bwn/api-key-checker">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=default&amp;hide_border=true" />
-          </picture>
-        </a>
+        <a href="https://github.com/sourav-bwn/api-key-checker"><img src="assets/pins/api-key-checker.svg" alt="api-key-checker repository card" /></a>
         <br />
         <em>Validate API keys from 20+ providers, fully client-side.</em>
       </p>
@@ -157,12 +127,12 @@ I like building real things - AI-powered apps, automation tools, and interactive
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourav-bwn&amp;theme=tokyonight" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourav-bwn&amp;theme=default" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-bwn&amp;theme=tokyonight" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourav-bwn&amp;theme=default" />
   </picture>
 </p>
 
