@@ -71,8 +71,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/mindscape">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=mindscape&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -84,8 +84,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/sourav-3d-portfolio">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=sourav-3d-portfolio&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -99,8 +99,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/hand-tracking-ar">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=hand-tracking-ar&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -112,8 +112,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/home-cctv">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=home-cctv&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -127,8 +127,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/reddit-video-bot">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=reddit-video-bot&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -140,8 +140,8 @@ I like building real things - AI-powered apps, automation tools, and interactive
       <p align="center">
         <a href="https://github.com/sourav-bwn/api-key-checker">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=tokyonight&amp;hide_border=true" />
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=default&amp;hide_border=true" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=tokyonight&amp;hide_border=true" />
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sourav-bwn&amp;repo=api-key-checker&amp;theme=default&amp;hide_border=true" />
           </picture>
         </a>
         <br />
@@ -157,12 +157,12 @@ I like building real things - AI-powered apps, automation tools, and interactive
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourav-bwn&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourav-bwn&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
   </picture>
 </p>
 
@@ -175,17 +175,12 @@ I like building real things - AI-powered apps, automation tools, and interactive
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sourav-bwn&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourav-bwn&amp;theme=github-light&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Graph" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-bwn&amp;theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-bwn&amp;theme=default" width="95%" />
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sourav-bwn&amp;theme=tokyonight&amp;no-frame=true&amp;row=2&amp;column=4&amp;margin-w=15&amp;margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=sourav-bwn&amp;theme=flat&amp;no-frame=true&amp;row=2&amp;column=4&amp;margin-w=15&amp;margin-h=15" width="95%" />
-  </picture>
-</p>
+
 
 ---
 
